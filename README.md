@@ -58,6 +58,7 @@ Name  |  Description
 [PentesterLab](https://pentesterlab.com/) | 20$ signature, complete content basic to write exploits, web, android.
 [CyberSec WTF](https://cybersecurity.wtf/)| Emulated web pentesting challenges from bounty write-ups
 [Pentest-Ground](https://pentest-ground.com/) | Pentest Ground is a free playground with deliberately vulnerable web applications and network services.
+[Portswigger Websecurity Academy][(https://portswigger.net/web-security)] | Port-swigger websecurity academy is a Free, online web security training from the creators of Burp Suite to sharpen your skills in web application security
 
 ### Off-Line
 Name  |  Description
